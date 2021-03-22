@@ -1,0 +1,9 @@
+D:\ltwindows\BaiTapLon_Csharp\DAL\bin\Debug\DAL.dll
+D:\ltwindows\BaiTapLon_Csharp\DAL\bin\Debug\DAL.pdb
+D:\ltwindows\BaiTapLon_Csharp\DAL\bin\Debug\DTO.dll
+D:\ltwindows\BaiTapLon_Csharp\DAL\bin\Debug\DTO.pdb
+D:\ltwindows\BaiTapLon_Csharp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ltwindows\BaiTapLon_Csharp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ltwindows\BaiTapLon_Csharp\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ltwindows\BaiTapLon_Csharp\DAL\obj\Debug\DAL.dll
+D:\ltwindows\BaiTapLon_Csharp\DAL\obj\Debug\DAL.pdb

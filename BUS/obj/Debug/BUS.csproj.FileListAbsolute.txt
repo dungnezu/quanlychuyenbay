@@ -1,0 +1,11 @@
+D:\ltwindows\BaiTapLon_Csharp\BUS\bin\Debug\BUS.dll
+D:\ltwindows\BaiTapLon_Csharp\BUS\bin\Debug\BUS.pdb
+D:\ltwindows\BaiTapLon_Csharp\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\ltwindows\BaiTapLon_Csharp\BUS\obj\Debug\BUS.dll
+D:\ltwindows\BaiTapLon_Csharp\BUS\obj\Debug\BUS.pdb
+D:\ltwindows\BaiTapLon_Csharp\BUS\bin\Debug\DAL.dll
+D:\ltwindows\BaiTapLon_Csharp\BUS\bin\Debug\DTO.dll
+D:\ltwindows\BaiTapLon_Csharp\BUS\bin\Debug\DAL.pdb
+D:\ltwindows\BaiTapLon_Csharp\BUS\bin\Debug\DTO.pdb
+D:\ltwindows\BaiTapLon_Csharp\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\ltwindows\BaiTapLon_Csharp\BUS\obj\Debug\BUS.csproj.CopyComplete
